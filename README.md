@@ -1,6 +1,8 @@
 # 16-fast-react-pizza
 
 Fast-React-Pizza-CO.
+<img width="1446" alt="Screenshot 2025-03-08 at 22 20 46" src="https://github.com/user-attachments/assets/9a06e591-bfd9-4e67-bbbe-503b7f9be4fb" />
+<img width="1440" alt="Screenshot 2025-03-08 at 22 21 00" src="https://github.com/user-attachments/assets/79947770-2dc1-4edf-a71f-aab4584d23a9" />
 
 Fast-React-Pizza
 
